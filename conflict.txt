@@ -1,1 +1,1 @@
-This is a conflicting line from main branch
+This is the resolved line after merge conflict
